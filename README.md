@@ -45,7 +45,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/sniperrasmtat/transport-ticket-reservation-system.git
+   git clone https://github.com/sniperras/transport-ticket-reservation-system.git
    cd transport-ticket-reservation-system
    ```
 
@@ -251,8 +251,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 👥 Authors & Contributors
 
-👤 **Maintainer**: [Your Name](https://github.com/sniperrasmtat)
-🤝 **Contributors**: [List of contributors](https://github.com/sniperrasmtat/transport-ticket-reservation-system/graphs/contributors)
+👤 **Maintainer**: [Your Name](https://github.com/sniperras)
+🤝 **Contributors**: [List of contributors](https://github.com/sniperras/transport-ticket-reservation-system/graphs/contributors)
 
 ---
 
@@ -269,7 +269,7 @@ If you encounter a bug or have a feature request:
 
 ### Getting Help
 
-- **Discussions**: Join our [GitHub Discussions](https://github.com/sniperrasmtat/transport-ticket-reservation-system/discussions).
+- **Discussions**: Join our [GitHub Discussions](https://github.com/sniperras/transport-ticket-reservation-system/discussions).
 - **Community**: Ask questions on [Stack Overflow](https://stackoverflow.com/) (tag: `transport-ticket-reservation-system`).
 - **Email**: For urgent support, contact `support@transport.com`.
 
@@ -295,7 +295,7 @@ If you encounter a bug or have a feature request:
 
 Ready to take your transport business online? Fork this repository, set up your database, and start customizing!
 
-👉 **[Star this repository](https://github.com/sniperrasmtat/transport-ticket-reservation-system)** to show your support!
+👉 **[Star this repository](https://github.com/sniperras/transport-ticket-reservation-system)** to show your support!
 
 ---
 
@@ -320,4 +320,5 @@ The README follows modern GitHub best practices, including:
 - Support information
 
 This should help the repository gain traction and attract developers to contribute!
+
 
