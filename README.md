@@ -1,4 +1,3 @@
-```markdown
 # 🚌 Transport Ticket Reservation System
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -321,3 +320,4 @@ The README follows modern GitHub best practices, including:
 - Support information
 
 This should help the repository gain traction and attract developers to contribute!
+
